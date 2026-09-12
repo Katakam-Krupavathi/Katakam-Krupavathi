@@ -93,19 +93,13 @@ class Krupavathi:
 </div>
 
 
-🏆 Achievements & Experience
-<table> <tr> <th width="50%" align="center">🏆 Achievements</th> <th width="50%" align="center">💼 Experience</th> </tr> <tr> <td valign="top">
-📊 LeetCode — 450+ solved, Top 25% globally
-🔥 CodeChef — 4★ rated (1804)
-☁️ AWS Certified — Cloud services & deployment fundamentals
-🎓 CGPA 9.2/10 — B.Tech CSE, VVIT
-</td> <td valign="top">
-
-🤖 AI/ML Intern — Infosys Springboard Nov 2025 – Jan 2026 Built a wildlife surveillance platform with YOLOv8 (91.4% mAP@0.5) + gunshot audio classification (93% accuracy) with automated SMS alerts
-
-⚡ HPC Intern — CDAC Apr 2025 – Jul 2025 Optimized telecom traffic processing with OpenMP & Intel MKL (3× speedup); GPU acceleration cut compute time ~60%
-
-</td> </tr> </table>
+🏆 Achievements
+<div align="center">
+🎓 AWS Certified Cloud Practitioner — Amazon Web Services (Jul 2026 – Jul 2029)
+🏅 Ranked in the top 0.4% in Naukri Campus Young Turks 2025, showcasing strong problem-solving skills
+🥈 Selected as a National Semi-Finalist in Flipkart GRiD 7.0, solving real-world coding challenges
+📈 Ranked in the top 3% in AINCAT 2025, demonstrating strong aptitude and reasoning ability
+</div>
 ---
 
 ## 🔥 Featured Projects
