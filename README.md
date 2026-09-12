@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Katakam Krupavathi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+%26+Full-Stack+Developer;High-Performance+Computing+Enthusiast;LeetCode+Top+25%25+(450%2B+Solved);4%E2%98%85+CodeChef+Coder+(Rating%3A+1804);B.Tech+CSE+%40+VVIT+(CGPA%3A+9.2%2F10)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+%26+Full-Stack+Developer;High-Performance+Computing+Enthusiast; />
 </div>
 
 <hr>
