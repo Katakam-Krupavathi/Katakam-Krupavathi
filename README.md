@@ -88,9 +88,9 @@ class Krupavathi:
 ![CUDA](https://img.shields.io/badge/CUDA_GPU-76B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 
-</div>
----
 
+---
+</div>
 
 
 ## 🏆 Achievements & Certifications
