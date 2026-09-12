@@ -87,9 +87,11 @@ class Krupavathi:
 ![Intel MKL](https://img.shields.io/badge/Intel_MKL-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA_GPU-76B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
----
 
 </div>
+---
+
+
 
 ## 🏆 Achievements & Certifications
 
