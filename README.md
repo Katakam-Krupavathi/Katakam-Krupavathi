@@ -93,15 +93,19 @@ class Krupavathi:
 </div>
 
 
-## 🏆 Achievements & Certifications
+🏆 Achievements & Experience
+<table> <tr> <th width="50%" align="center">🏆 Achievements</th> <th width="50%" align="center">💼 Experience</th> </tr> <tr> <td valign="top">
+📊 LeetCode — 450+ solved, Top 25% globally
+🔥 CodeChef — 4★ rated (1804)
+☁️ AWS Certified — Cloud services & deployment fundamentals
+🎓 CGPA 9.2/10 — B.Tech CSE, VVIT
+</td> <td valign="top">
 
-| 🏆 Achievements | 💼 Experience |
-|---|---|
-| **📊 LeetCode**<br>*450+ solved — Top 25% globally* | **🤖 AI/ML Intern — Infosys Springboard**<br>*Nov 2025 – Jan 2026* |
-| **🔥 CodeChef**<br>*4★ rated (1804)* | 📷 Wildlife surveillance platform with **YOLOv8** (91.4% mAP@0.5) + gunshot audio classification (93% accuracy) with automated SMS alerts |
-| **☁️ AWS Certified**<br>*Cloud services & deployment fundamentals* | **⚡ HPC Intern — CDAC**<br>*Apr 2025 – Jul 2025* |
-| **🎓 Academic Excellence**<br>*CGPA 9.2/10, B.Tech CSE @ VVIT* | ⚙️ Telecom traffic processing optimized with **OpenMP & Intel MKL** (3× speedup); GPU acceleration cut compute time ~60% |
+🤖 AI/ML Intern — Infosys Springboard Nov 2025 – Jan 2026 Built a wildlife surveillance platform with YOLOv8 (91.4% mAP@0.5) + gunshot audio classification (93% accuracy) with automated SMS alerts
 
+⚡ HPC Intern — CDAC Apr 2025 – Jul 2025 Optimized telecom traffic processing with OpenMP & Intel MKL (3× speedup); GPU acceleration cut compute time ~60%
+
+</td> </tr> </table>
 ---
 
 ## 🔥 Featured Projects
