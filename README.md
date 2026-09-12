@@ -89,6 +89,8 @@ class Krupavathi:
 
 ---
 
+</div>
+
 ## 🏆 Achievements & Certifications
 
 | 🏆 Achievements | 💼 Experience |
