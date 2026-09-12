@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Katakam Krupavathi
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+Engineer;Full-Stack+Developer;B.Tech+4th+Year+Student" alt="Typing SVG" /> </div>
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+Intern;Full-Stack+Developer;B.Tech+4th+Year+Student" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupavathi-katakam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krupavathikatakam2006@gmail.com)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI/ML & Full-Stack Developer**, currently pursuing B.Tech in Computer Science & Engineering. I build intelligent AI systems, LLM-powered applications, and high-performance computing pipelines that turn ideas into production-ready solutions.
+I'm a passionate **AI/ML & Full-Stack Developer** and 4th-year B.Tech CSE student who transforms ideas into production-ready solutions. Currently building intelligent AI systems and high-performance computing pipelines.
 
 ```
 class Krupavathi:
@@ -43,44 +43,60 @@ class Krupavathi:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-### 🌐 Web & Backend Development
+### 🌐 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### Deployments
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 💻 IDEs/Editors
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### ⚡ HPC & Cloud
+### ⚡ HPC & Parallel Computing
 ![OpenMP](https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Intel MKL](https://img.shields.io/badge/Intel_MKL-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA_GPU-76B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Achievements & Certifications
 
 | 🏆 Achievements | 💼 Experience |
 |---|---|
-| **📊 LeetCode** — 450+ solved, Top 25% globally | **🤖 AI/ML Intern — Infosys Springboard** *(Nov 2025 – Jan 2026)* |
-| **🔥 CodeChef** — 4★ rated (1804) | Built a wildlife surveillance platform with YOLOv8 (91.4% mAP@0.5) + gunshot audio classification (93% accuracy) and automated SMS alerts |
-| **☁️ AWS Certified** — Cloud services & deployment | **⚡ HPC Intern — CDAC** *(Apr 2025 – Jul 2025)* |
-| **🎓 CGPA 9.2/10** — B.Tech CSE, VVIT (2023–2027) | Optimized telecom traffic processing with OpenMP & Intel MKL (3× speedup); cut compute time ~60% via GPU acceleration |
+| **📊 LeetCode**<br>*450+ solved — Top 25% globally* | **🤖 AI/ML Intern — Infosys Springboard**<br>*Nov 2025 – Jan 2026* |
+| **🔥 CodeChef**<br>*4★ rated (1804)* | 📷 Wildlife surveillance platform with **YOLOv8** (91.4% mAP@0.5) + gunshot audio classification (93% accuracy) with automated SMS alerts |
+| **☁️ AWS Certified**<br>*Cloud services & deployment fundamentals* | **⚡ HPC Intern — CDAC**<br>*Apr 2025 – Jul 2025* |
+| **🎓 Academic Excellence**<br>*CGPA 9.2/10, B.Tech CSE @ VVIT* | ⚙️ Telecom traffic processing optimized with **OpenMP & Intel MKL** (3× speedup); GPU acceleration cut compute time ~60% |
 
 ---
 
@@ -159,21 +175,19 @@ class Krupavathi:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katakam-Krupavathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🌟 Professional Journey
-
-| Timeline | Role | Organization | Achievement |
-|---|---|---|---|
-| **2023 – 2027** | B.Tech Student | VVIT | CGPA: 9.2/10 |
-| **Nov 2025 – Jan 2026** | AI/ML Intern | Infosys Springboard | 91.4% mAP@0.5 detection system |
-| **Apr 2025 – Jul 2025** | HPC Intern | CDAC | 3× speedup on HPC workloads |
+**💻 Development**: Building scalable, production-ready applications
+**📚 Learning**: LLM orchestration, HPC acceleration
+**🏆 Competitive Programming**: Active on LeetCode & CodeChef
 
 ---
 
 ## 📞 Let's Connect!
 
-I'm always excited to discuss AI/ML architectures, HPC systems, or full-stack opportunities.
+I'm always excited to discuss:
+
+- 🤖 AI/ML system architecture and optimization
+- ⚡ HPC and parallel computing
+- 🌐 Full-stack development and scalable systems
 
 **📧 Email**: krupavathikatakam2006@gmail.com
 **🌍 Location**: Andhra Pradesh, India
