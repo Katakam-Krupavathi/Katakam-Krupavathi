@@ -94,12 +94,7 @@ class Krupavathi:
 
 
 🏆 Achievements
-<div align="center">
--🎓 AWS Certified Cloud Practitioner — Amazon Web Services (Jul 2026 – Jul 2029)
--🏅 Ranked in the top 0.4% in Naukri Campus Young Turks 2025, showcasing strong problem-solving skills
--🥈 Selected as a National Semi-Finalist in Flipkart GRiD 7.0, solving real-world coding challenges
--📈 Ranked in the top 3% in AINCAT 2025, demonstrating strong aptitude and reasoning ability
-</div>
+<table align="center"> <tr><td align="center">🎓 <b>AWS Certified Cloud Practitioner</b> — Amazon Web Services <i>(Jul 2026 – Jul 2029)</i></td></tr> <tr><td align="center">🏅 Ranked in the <b>top 0.4%</b> in <b>Naukri Campus Young Turks 2025</b>, showcasing strong problem-solving skills</td></tr> <tr><td align="center">🥈 Selected as a <b>National Semi-Finalist</b> in <b>Flipkart GRiD 7.0</b>, solving real-world coding challenges</td></tr> <tr><td align="center">📈 Ranked in the <b>top 3%</b> in <b>AINCAT 2025</b>, demonstrating strong aptitude and reasoning ability</td></tr> </table>
 ---
 
 ## 🔥 Featured Projects
