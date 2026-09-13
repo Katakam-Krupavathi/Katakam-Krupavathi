@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Katakam Krupavathi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+Intern;Full-Stack+Developer;B.Tech+4th+Year+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI%2FML+Engineer;Full-Stack+Developer;B.Tech+4th+Year+Student" alt="Typing SVG" />
 </div>
 
 <div align="center">
