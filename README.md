@@ -159,10 +159,7 @@ class Krupavathi:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Katakam-Krupavathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Krupavathi's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katakam-Krupavathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Katakam-Krupavathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
